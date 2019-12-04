@@ -3,6 +3,7 @@ This module is used for depth prediction from a monocular image using the princi
 
 # Dependencies
 [pyTorch](https://pytorch.org/)
+[Tensorflow](https://www.tensorflow.org/)
 
 # Steps to run the file 
 1) Clone this Directory
