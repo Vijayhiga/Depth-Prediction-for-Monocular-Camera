@@ -7,8 +7,9 @@ This module is used for depth prediction from a monocular image using the princi
 # Steps to run the file 
 1) Clone this Directory
 
-2) Run the test.py file 
+2) Run the test.py file (Directory Should be this)
   > python test.py
+  
 You can two window one is the RGB image and the other is the Gray scaled depth map.
 
 # Various concepts used
