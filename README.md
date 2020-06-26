@@ -3,7 +3,6 @@ This module is used for depth prediction from a monocular image using the princi
 
 # Dependencies
 [pyTorch](https://pytorch.org/)
-[Tensorflow](https://www.tensorflow.org/)
 
 # Steps to run the file 
 1) Clone this Directory
@@ -11,11 +10,7 @@ This module is used for depth prediction from a monocular image using the princi
 2) Run the test.py file (Directory Should be this)
   > python test.py
   
-You can two window one is the RGB image and the other is the Gray scaled depth map.
-
-# Various concepts used
-1) CUDA    - CUDA optimization for motion tracking
-2) Transfer Learning - Depth Prediction 
+You can see two windows, one is the RGB image and the other is the gray scaled depth map.
 
 # Results 
 Depth map from a monocular image (Web-Cam)  
