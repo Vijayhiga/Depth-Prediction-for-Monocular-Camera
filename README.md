@@ -1,5 +1,5 @@
 # Depth Prediction
-This module is used for depth prediction from a monocular image using the principles of Transfer Learning.
+This module is used for depth prediction from a monocular image.
 
 # Dependencies
 [pyTorch](https://pytorch.org/)
